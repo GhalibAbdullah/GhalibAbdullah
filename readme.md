@@ -4,7 +4,9 @@ I'm currently working on my Final Year Project<br>I love to contribute in open s
 ![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9](https://github.com/Shahzeb-Ali-Web-Developer/Shahzeb-Ali-Web-Developer/assets/126076773/5fcb2a7b-f233-4737-98bb-3cbe9b102feb)
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shahzeb-ali-web-developer&label=Profile%20views&color=0e75b6&style=flat" alt="shahzeb-ali-web-developer" /> </p>
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=shahzeb-ali-web-developer&label=Profile%20views&color=0e75b6&style=flat](https://camo.githubusercontent.com/1a54039f4b20775f07cf6d6eb59e24fb35cd16c4999686d16d6adc12928e11f5/68747470733a2f2f36342e6d656469612e74756d626c722e636f6d2f32643061663963393064316231313037333133636332306264613031353438612f74756d626c725f6f757477786e616e7070317537396f326c6f315f313238302e67696676)" alt="shahzeb-ali-web-developer" /> </p>
+
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mohammadabdullah8277) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdullah-bin-ghalib) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ghalibabdullah25@gmail.com) 
@@ -20,4 +22,5 @@ I'm currently working on my Final Year Project<br>I love to contribute in open s
 [![](https://visitcount.itsvg.in/api?id=GhalibAbdullah&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
